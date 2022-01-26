@@ -1,4 +1,4 @@
-const BasicTypes = () => {
+const BasicTypes_1 = () => {
   // Типы в Javascript
   /*
   * number - числа
@@ -61,4 +61,4 @@ const BasicTypes = () => {
   // };
 }
 
-export default BasicTypes
+export default BasicTypes_1

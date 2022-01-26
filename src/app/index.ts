@@ -1,3 +1,5 @@
-import BasicTypes from './basic-types'
+import BasicTypes_1 from './basic-types_1'
+import BasicTypes_2 from './basic-types_2';
 
-BasicTypes()
+// BasicTypes_1()
+BasicTypes_2()
