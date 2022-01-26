@@ -9,8 +9,6 @@ const BasicTypes = () => {
   * undefined - значение не присвоено
   * symbol - служит для создания уникальных идентификаторов
   * */
-
-  const test = 'test'
 }
 
 export default BasicTypes
