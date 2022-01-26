@@ -1,0 +1,27 @@
+// Your styles
+* {
+  margin: 0;
+  font-family: sans-serif;
+}
+
+body {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  flex-direction: column;
+  background: #2d79c7;
+  color: #fff;
+
+  h1 {
+    position: fixed;
+    top: 100px;
+    left: 0;
+    width: 100%;
+    text-align: center;
+  }
+
+  img {
+    height: 100vh;
+    max-width: 100%;
+  }
+}
